@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kazuha_Banner.gif" alt="PixelHalide banner" width="740">
+  <img src="kazuha_Banner.avif" alt="PixelHalide banner" width="740">
 </p>
 
 # pixelhalide
