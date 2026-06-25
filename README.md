@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="kazuha_Banner.avif" alt="PixelHalide banner">
+  <img src="kazuha_Banner.avif" alt="PixelHalide banner" width="100%">
 </p>
-
-# pixelhalide
-
-```falling leaves adorn my night 🍁```
+*falling leaves adorn my night 🍁*
 
 20yo enby software engineer, currently based in India.
 
